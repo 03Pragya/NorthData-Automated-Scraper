@@ -1,0 +1,45 @@
+Company 1: XXL-Fitness e. K., Erlangen, Germany
+URL: https://www.northdata.com/XXL-Fitness%20e%C2%B7%20K%C2%B7,%20Erlangen/Amtsgericht%20F%C3%BCrth%20HRA%2011887
+
+Company 2: AH Fitness GmbH, Essen, Germany
+URL: https://www.northdata.com/AH%20Fitness%20GmbH,%20Essen/HRB%2033557
+
+Company 3: K&G Fitness GmbH, Nagold, Germany
+URL: https://www.northdata.com/K%26G%20Fitness%20GmbH,%20Nagold/Amtsgericht%20Ulm%20HRB%20743085
+
+Company 4: GB Fitness GmbH, Freudenstadt, Germany
+URL: https://www.northdata.com/GB%20Fitness%20GmbH,%20Freudenstadt/Amtsgericht%20Stuttgart%20HRB%20771730
+
+Company 5: Y.Fitness GmbH Fitness und Gesundheitszentrum, Stockach, Germany
+URL: https://www.northdata.com/Y%C2%B7Fitness%20GmbH%20Fitness%20und%20Gesundheitszentrum,%20Stockach/Amtsgericht%20Freiburg%20HRB%20711273
+
+Company 6: AMAS Fitness GmbH, Hamburg, Germany
+URL: https://www.northdata.com/AMAS%20Fitness%20GmbH,%20Hamburg/HRB%20149916
+
+Company 7: Fitness World e. K., Augsburg, Germany
+URL: https://www.northdata.com/Fitness%20World%20e%C2%B7%20K%C2%B7,%20Augsburg/HRA%2013941
+
+Company 8: FBOX Fitness GmbH, Bischweier, Germany
+URL: https://www.northdata.com/FBOX%20Fitness%20GmbH,%20Bischweier/Amtsgericht%20Mannheim%20HRB%20737890
+
+Company 9: DreLi Fitness GmbH, Jülich, Germany
+URL: https://www.northdata.com/DreLi%20Fitness%20GmbH,%20J%C3%BClich/Amtsgericht%20D%C3%BCren%20HRB%204110
+
+Company 10: TRU Fitness GmbH, Berlin, Germany
+URL: https://www.northdata.com/TRU%20Fitness%20GmbH,%20Berlin/Amtsgericht%20Charlottenburg%20%28Berlin%29%20HRB%20184141%20B
+
+Company 11: Game- und Fitnesspoint UG, Bitterfeld-Wolfen, Germany
+URL: https://www.northdata.com/Game-%20und%20Fitnesspoint%20UG,%20Bitterfeld-Wolfen/Amtsgericht%20Stendal%20HRB%2018517
+
+Company 12: CLEAN FITNESS GmbH, Regensburg, Germany
+URL: https://www.northdata.com/CLEAN%20FITNESS%20GmbH,%20Regensburg/HRB%2021224
+
+Company 13: Fitness Line Fitneß-Studio GmbH, Erftstadt, Germany
+URL: https://www.northdata.com/Fitness%20Line%20Fitne%C3%9F-Studio%20GmbH,%20Erftstadt/Amtsgericht%20K%C3%B6ln%20HRB%2044261
+
+Company 14: PB Fitness UG, Hamburg, Germany
+URL: https://www.northdata.com/PB%20Fitness%20UG,%20Hamburg/HRB%20178874
+
+Company 15: ReFit Fitness GmbH, Siek, Germany ✝︎
+URL: https://www.northdata.com/ReFit%20Fitness%20GmbH,%20Siek/Amtsgericht%20L%C3%BCbeck%20HRB%2013976%20HL
+
