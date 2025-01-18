@@ -15,9 +15,17 @@ This tool automates the extraction of company information from northdata.com, sp
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies
+2. Install dependencies - listed in requirements section
 3. Run the scraper
 
 ## Usage
 
-[Add usage instructions here]
+python scrape_details.py
+
+## Requirements
+
+1. Python 3.x
+2. Selenium
+3. pandas
+4. webdriver_manager
+5. openpyxl
